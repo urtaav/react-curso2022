@@ -1,0 +1,19 @@
+
+.container-meme span{
+  text-transform: uppercase;
+  position: absolute;
+  margin-top: 230px;
+  font-size: 38px;
+  color: #fff;
+  text-shadow: 2px 0 0 rgb(0, 0, 0), -2px 0 0 rgb(0, 0, 0), 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0);
+}
+.container-meme span:nth-child(1){
+  margin-top: 55px;
+}
+.container-meme img{
+  width: 100%;
+}
+
+body, .container-meme{
+  background-color: #333;;
+}
