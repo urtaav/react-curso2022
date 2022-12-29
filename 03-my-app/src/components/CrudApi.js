@@ -123,7 +123,7 @@ const CrudApi = () => {
   };
 
   return (
-    <div>
+    <div className="container">
       <h2>Crud API</h2>
       <article className="grid-1-2 ">
         <CrudForm
